@@ -1,0 +1,5 @@
+*.npy
+*.zip
+datasets/Berkeley/
+datasets/Pascal/
+datasets/USC/
